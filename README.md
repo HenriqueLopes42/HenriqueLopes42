@@ -4,7 +4,7 @@
 
 # [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/HenriqueLopes42) [![Github](https://img.shields.io/github/stars/HenriqueLopes42?label=Star&style=social)](https://github.com/HenriqueLopes42)
  <div>
-  <a href="https://github.com/Henrique42Henk">
+  <a href="https://github.com/HenriqueLopes42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes42&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes42&layout=compact&langs_count=7&theme=radical"/>
 </div>
