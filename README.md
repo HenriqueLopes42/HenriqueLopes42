@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou o Henrique 
+### Olá 👋 Eu sou o Henrique 
 # [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/HenriqueLopes42) [![Github](https://img.shields.io/github/stars/HenriqueLopes42?label=Star&style=social)](https://github.com/HenriqueLopes42)
  <div>
   <a href="https://github.com/Henrique42Henk">
@@ -26,6 +26,6 @@
   <a href = "mailto:lhenrique00lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Henrique42Henk/Henrique42Henk/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
