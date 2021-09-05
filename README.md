@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou o Henrique
+### Hi there 👋 Eu sou o Henrique ## [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/HenriqueLopes42) [![Github](https://img.shields.io/github/stars/HenriqueLopes42?label=Star&style=social)](https://github.com/HenriqueLopes42)
  <div>
   <a href="https://github.com/Henrique42Henk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique42Henk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
