@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Henrique+)](https://git.io/typing-svg)
 
-
 # [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/HenriqueLopes42) [![Github](https://img.shields.io/github/stars/HenriqueLopes42?label=Star&style=social)](https://github.com/HenriqueLopes42)
  <div>
   <a href="https://github.com/Henrique42Henk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique42Henk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique42Henk&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes42&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes42&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
