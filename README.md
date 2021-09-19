@@ -7,6 +7,7 @@
   <a href="https://github.com/HenriqueLopes42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes42&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes42&layout=compact&langs_count=7&theme=radical"/>
+   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=HenriqueLopes42&layout=compact&langs_count=7&theme=redical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
