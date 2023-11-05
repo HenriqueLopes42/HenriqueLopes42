@@ -14,7 +14,7 @@
   
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
+   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,flutter&perline=3">
 </picture>
   
 </div>
