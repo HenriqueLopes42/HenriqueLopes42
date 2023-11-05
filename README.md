@@ -13,8 +13,8 @@
 <div>
   
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,flutter&perline=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Forth.svg">
 </picture>
   
 </div>
