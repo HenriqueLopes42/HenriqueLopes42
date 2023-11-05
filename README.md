@@ -3,21 +3,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Luis+Henrique+)](https://github.com/HenriqueLopes42)
 
 # [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/HenriqueLopes42) [![Github](https://img.shields.io/github/stars/HenriqueLopes42?label=Star&style=social)](https://github.com/HenriqueLopes42)
- <div>
+<div  align="center" >
   <a href="https://github.com/HenriqueLopes42">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes42&show_icons=true&theme=radical"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes42&layout=compact&langs_count=7&theme=radical"/>
-   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=HenriqueLopes42&layout=compact&langs_count=7&theme=redical"/>
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes42&show_icons=true&theme=radical"/>
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes42&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+   <br />
+
+<div>
+ <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+ <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
@@ -31,7 +31,7 @@
 </div>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake.svg">
 </picture>
