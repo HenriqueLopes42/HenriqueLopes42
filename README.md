@@ -12,10 +12,11 @@
 
 <div>
   
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Forth.svg">
-</picture>
+ <p align="center">
+  <a href="[https://skillicons.dev](https://henriquelopes.me)">
+    <img src="https://skillicons.dev/icons?i=git,postman,androidstudio,html,cs,js,swift,flutter" />
+  </a>
+</p>
   
 </div>
   
