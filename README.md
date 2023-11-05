@@ -13,7 +13,7 @@
 <div>
   
  <p align="center">
-  <a href="[https://skillicons.dev](https://henriquelopes.me)">
+  <a href="https://henriquelopes.me">
     <img src="https://skillicons.dev/icons?i=git,postman,androidstudio,html,cs,js,swift,flutter" />
   </a>
 </p>
